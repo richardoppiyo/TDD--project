@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![](https://img.shields.io/badge/Microverse-blueviolet)
  # TDD--project
  This is a project to implement Test Driven Development
@@ -8,18 +7,6 @@
  - Ruby
 
  - RSpec
-=======
-# TDD--project
-This projectis an implementation of Test Driven Development
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-
- ## Built With
-
- - Ruby
- - Rspec
->>>>>>> 18a33d094738e0f328420514b36e72b5068ce983
 
  ## Getting Started
 
@@ -32,7 +19,6 @@ This projectis an implementation of Test Driven Development
 
  ## Running the project
 
-<<<<<<< HEAD
 To run the project,
 - Navigate to the root directory of the project `cd TDD--project`
 
@@ -40,14 +26,6 @@ To run the project,
 
 -The test results will be displayed on the terminal.
 
-=======
-To run the tests on the project,
-- Navigate to the root directory of the project `ccd TDD--project` in your terminal.
-- run `rspec`
--The test results will be displayed on the terminal.
-
-
->>>>>>> 18a33d094738e0f328420514b36e72b5068ce983
  ## Authors:
 
 ### 👤 Joaquin G.L. Zanetti
